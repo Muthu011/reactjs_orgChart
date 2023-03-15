@@ -1,0 +1,13 @@
+.initechNode {
+    border-radius: 3px;
+    padding: 5px;
+    display: inline-block;
+}
+
+#initechOrgChart .orgNodeChildGroup .nodeGroupLineVerticalMiddle {
+    border-right: "#ECECF4"
+}
+
+#initechOrgChart .nodeLineBorderTop {
+    border-top: "#ECECF4";
+}
